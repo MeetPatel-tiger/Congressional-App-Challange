@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Feedback Form</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<div class="feedback">
+  <form action="https://formspree.io/f/xanjroyz" method="POST">
+    <div class="row">
+      <div class="input-group">
+        <input type="text" id="name" name="name" required autocomplete="name">
+        <label for="name">Your Name</label>
+      </div>
+      <div class="input-group">
+        <input type="tel" id="number" name="number" required autocomplete="tel">
+        <label for="number">Phone No.</label>
+      </div>
+    </div>
+
+    <div class="input-group">
+      <input type="email" id="email" name="email" required autocomplete="email">
+      <label for="email">Email ID</label>
+    </div>
+
+    <div class="input-group">
+      <textarea id="message" name="message" rows="8" required></textarea>
+      <label for="message">Your Message</label>
+    </div>
+
+    <button class="special-button" type="submit">SUBMIT</button>
+  </form>
+</div>
+
+</body>
+</html>

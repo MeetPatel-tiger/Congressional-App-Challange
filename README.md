@@ -25,7 +25,8 @@ This recognition not only honored my technical work but also highlighted the pro
 - Enable reminder or schedule features  
 - Include multilingual support to reach a wider audience  
 - Collaborate with other students and educators to improve content
-- Looking to add contributions tab where more people can make this website better. 
+- Looking to add contributions tab where more people can make this website better.
+- Add AI which makes questions for students to practice
 
 ## 🤝 How You Can Help
 If you're a student, teacher, or mentor who wants to contribute ideas, corrections, or resources, feel free to open an issue or contact me directly. Contributions are welcome!

@@ -17,8 +17,7 @@ This recognition not only honored my technical work but also highlighted the pro
 ## 🛠 Tech Stack
 - **HTML/CSS** – For a clean, accessible frontend  
 - **JavaScript** (optional) – For future interactivity  
-- **Formspree** – For feedback collection  
-- **GitHub Pages** – For deployment and accessibility  
+- **Formspree** – For feedback collection   
 
 ## 📌 Future Plans
 - Add interactive flashcards and quizzes  
@@ -29,4 +28,4 @@ This recognition not only honored my technical work but also highlighted the pro
 - Add AI which makes questions for students to practice
 
 ## 🤝 How You Can Help
-If you're a student, teacher, or mentor who wants to contribute ideas, corrections, or resources, feel free to open an issue or contact me directly. Contributions are welcome!
+If you're a student, teacher, or mentor who wants to contribute ideas, corrections, or resources, feel free to open an issue or contact me directly. Contributions are welcome! NOTE: I am currently working on setting up contribution enviroment!

@@ -13,7 +13,7 @@ As a high school student, I realized how overwhelming and scattered ACT and SAT 
 ## 🏆 Recognition
 This project was submitted to the Congressional App Challenge and won 2nd place for my district. I was personally awarded a certificate of recognition by Congressman Brett Guthrie, which meant a lot to me as a first-generation student and young coder. If you want to checkout my certificate, head over to my linklden https://www.linkedin.com/in/meet-patel-439bb72b1/ and you'll find it there!!
 
-This recognition not only honored my technical work but also highlighted the project's impact on helping my peers access meaningful study resources. NOTE: I created this website with the help of Youtube tutorials. Of course, I spent my time finding effective resources. 
+This recognition not only honored my technical work but also highlighted the projects impact on helping my peers access meaningful study resources. NOTE: I created this website with the help of Youtube tutorials. Of course, I spent my time finding effective resources. 
 ## 🛠 Tech Stack
 - **HTML/CSS** – For a clean, accessible frontend  
 - **JavaScript** (optional) – For future interactivity  

@@ -17,7 +17,15 @@ This recognition not only honored my technical work but also highlighted the pro
 ## 🛠 Tech Stack
 - **HTML/CSS** – For a clean, accessible frontend  
 - **JavaScript** (optional) – For future interactivity  
-- **Formspree** – For feedback collection   
+- **Formspree** – For feedback collection
+
+## 🌟 Impact
+
+- 📊 **Used by 5 students**, with **60% scoring above 30** and **40% scoring between 25–27** on the ACT
+- 💡 Inspired by my own challenges as a first-generation student preparing for standardized tests, and designed to support others facing the same barriers
+
+This project reflects my passion for using technology to make education more accessible.
+
 
 ## 📌 Future Plans
 - Add interactive flashcards and quizzes  

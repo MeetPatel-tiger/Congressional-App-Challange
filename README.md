@@ -31,18 +31,17 @@ This project was submitted to the Congressional App Challenge and won 2nd place 
 ## 🤝 How You Can Help
 If you're a student, teacher, or mentor who wants to contribute ideas, corrections, or resources, feel free to open an issue or contact me directly. Contributions are welcome! NOTE: I am currently working on setting up contribution enviroment!
 
-🖥️ How to Run
-🌐 Online (Recommended)
+## 🖥️ How to Run
 
-💻 Run Locally
+- 💻 Run Locally
 
-Download or clone this repository:
+- Download or clone this repository:
 
-git clone https://github.com/<MeetPatel-tiger>/<Congressional-App-Challange>.git
-cd <Congressional-App-Challange>
+- git clone https://github.com/<MeetPatel-tiger>/<Congressional-App-Challange>.git
+- cd <Congressional-App-Challange>
 
 
-Open index.html in any browser (double-click it).
+- Open index.html in any browser (double-click it).
 ✅ That’s it! Since this project is built with HTML + CSS, no setup is required.
 
 (Optional: If using VS Code, install the Live Server extension → right-click index.html → Open with Live Server for auto-refresh and a local URL like http://127.0.0.1:5500).
